@@ -3,3 +3,4 @@ Para este proyecto utilice la BD AdventureWorksLT2017.bak, la cual la lleve a un
 
 
 
+![prueba](https://github.com/user-attachments/assets/a3cb7a56-43bf-4bc0-aed1-94b655665005)
