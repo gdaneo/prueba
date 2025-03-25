@@ -8,3 +8,8 @@ Para este proyecto utilice la BD AdventureWorksLT2017.bak, la cual la lleve a un
 
 
 ![prueba](https://github.com/user-attachments/assets/a3cb7a56-43bf-4bc0-aed1-94b655665005)
+
+
+![image](https://github.com/user-attachments/assets/4e02bd0b-892e-463c-9cd9-6a8c63a57d6a)
+
+![image](https://github.com/user-attachments/assets/ca650b02-98e4-4d1d-affc-327a9b9e90c5)
